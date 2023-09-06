@@ -28,4 +28,13 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+HTML             4 hrs 31 mins   █████████▒░░░░░░░░░░░░░░░   37.35 %
+JavaScript       2 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
+CSS              2 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
+Python           47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Markdown         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
+```
+
 <!--END_SECTION:waka-->
