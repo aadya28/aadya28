@@ -30,11 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML             4 hrs 3 mins    ████████░░░░░░░░░░░░░░░░░   31.62 %
-CSS              3 hrs 57 mins   ███████▓░░░░░░░░░░░░░░░░░   30.87 %
-JavaScript       2 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.55 %
-Python           2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-GitIgnore file   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+HTML         2 hrs 49 mins   ███████▓░░░░░░░░░░░░░░░░░   30.64 %
+Python       2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.23 %
+CSS          2 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.91 %
+JavaScript   1 hr 46 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
 ```
 
 <!--END_SECTION:waka-->
