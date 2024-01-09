@@ -30,9 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             3 hrs 4 mins    ███████████████████████▓░   94.86 %
-Other            5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-GitIgnore file   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Java   2 hrs 55 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
