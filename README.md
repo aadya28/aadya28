@@ -30,9 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           2 hrs 57 mins   █████████████████████▒░░░   85.36 %
-Java             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-GitIgnore file   13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
+Python           11 hrs 36 mins  ████████████████████████░   95.69 %
+Java             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+GitIgnore file   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
