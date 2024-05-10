@@ -30,9 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python           56 mins         ███████████████████▒░░░░░   76.68 %
-Text             11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
-GitIgnore file   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+GitIgnore file   11 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
