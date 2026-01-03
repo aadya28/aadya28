@@ -14,7 +14,7 @@
     </a>&nbsp;&nbsp;
 </p>
 
-<div style="display: flex; flex-direction: row;">
+<!-- <div style="display: flex; flex-direction: row;">
     <div style="flex-grow: 1; border: 1px solid #ccc; padding: 10px;">
         <a href="https://github.com/aadya28">
             <img src="https://github-readme-stats.vercel.app/api?username=aadya28" alt="Aadya's github stats" />
@@ -25,12 +25,8 @@
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadya28" alt="Top Langs" />
         </a>
     </div>
-</div>
+</div> -->
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
 
 <!--END_SECTION:waka-->
